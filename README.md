@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+我一个人住，我的房子还蛮大的，玩累了就直接睡觉，没问题的。
+
 <!--
 **bainesing/bainesing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
