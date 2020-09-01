@@ -7,8 +7,12 @@
 ### Github Stats
 
 <a href="https://github.com/bainesing">
-  <img src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" style="width: 58%; max-width: 58%; min-width: 58%;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" style="width: 40%; max-width: 40%; min-width: 40%;"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
+       style="display:block; width: 58%; max-width: 58%; min-width: 58%;">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" 
+       style="display:block; width: 40%; max-width: 40%; min-width: 40%;">
+</a>
 
 
 
