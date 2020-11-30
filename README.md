@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 我一个人住，我的房子还蛮大的，玩累了就直接睡觉，没问题的。
-
+<a href="https://cultofthepartyparrot.com/" target="_blank">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" alt="Github Party Parrot" title="Github Party Parrot" />
+</a>
 
 
 ### Github Stats
