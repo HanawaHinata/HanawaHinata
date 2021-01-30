@@ -8,7 +8,9 @@
 
 ### Github Stats
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bainesing" style="display:block; width: 58%; max-width: 58%; min-width: 58%;" />
+<a href="https://profile.codersrank.io/user/bainesing" target="_blank" >
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bainesing" style="display:block; width: 58%; max-width: 58%; min-width: 58%;" />
+</a>
 
 <a href="https://github.com/bainesing">
   <img src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
