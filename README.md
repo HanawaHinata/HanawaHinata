@@ -15,14 +15,14 @@ I live alone, my house is quite big, if you get tired, you can go to bed as your
 ### Github Stats
 
 <a href="https://profile.codersrank.io/user/bainesing" target="_blank" >
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bainesing" style="display:block; width: 58%; max-width: 58%; min-width: 58%;" />
+  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bainesing" style="display:block; max-width: 100%; min-width: 58%;" />
 </a>
 
 <a href="https://github.com/bainesing">
   <img src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
-       style="display:block; width: 100%;">
+     style="height: 161px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" 
-       style="display:block; width: 100%;">
+       style="height: 161px;">
 </a>
 
 
