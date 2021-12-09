@@ -6,7 +6,7 @@
 
 我一个人住，我的房子还蛮大的，玩累了就直接睡觉，没问题的。
 
-I live alone, my house is quite big, if you get tired, you can go to bed as your wish, that’s okay.
+I live alone, my house quite big might. You can sleep as your wish directly …… when you get tired with play, that’s okay.
 
 私は一人暮らしです。家はかなり大きいです。疲れたら寝るだけです。大丈夫です。
 
