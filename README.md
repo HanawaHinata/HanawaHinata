@@ -44,9 +44,9 @@ I will check messages online regularly on other platforms, Please be patient if 
 </a>
 
 <a href="https://github.com/bainesing">
-  <img src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
      style="height: 161px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" 
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" 
        style="height: 161px;">
 </a>
 <!-- markdownlint-restore -->
