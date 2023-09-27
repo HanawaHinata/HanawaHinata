@@ -21,7 +21,7 @@ I will check messages online regularly on other platforms, Please be patient if 
 
 > 当旧爱的言语业已告终，恋人们无言可言，无事可做，那时，我的使命伊始，改变这世界的基石，改变它的结构，一棵接一棵的树，一个接一个的星球，一首接一首的诗，我会告诉你，我爱你。
 > 
-> <img align="right" style="width: 150px;margin: 0 0 0 auto;display: block;" alt="Hanawa Hinata" src="./assets/images/sign/sign_gray.svg" />
+> <img style="width: 150px;margin: 0 0 0 auto;display: block;" alt="Hanawa Hinata Sign" src="./assets/images/sign/sign_gray.svg" />
 
 ### PARTY TIME!!!
 
