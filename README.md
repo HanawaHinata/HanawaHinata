@@ -43,12 +43,12 @@ I will check messages online regularly on other platforms, Please be patient if 
   <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=bainesing" style="display:block; max-width: 100%; min-width: 58%;" />
 </a>
 
-<a href="https://github.com/bainesing">
+<!-- <a href="https://github.com/bainesing">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=bainesing&show_icons=true&layout=compact&count_private=true&hide_title=true&theme=default" 
      style="height: 161px;">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bainesing&layout=compact&count_private=true&theme=default" 
        style="height: 161px;">
-</a>
+</a> -->
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- github-stats:end -->
